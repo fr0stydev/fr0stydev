@@ -40,7 +40,6 @@ $ ls toolkit/
 ```
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-9146FF?style=flat-square)
 ![Ghidra](https://img.shields.io/badge/Ghidra-CF2A27?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,22 +59,11 @@ $ ls certs/
 ![CAIMLP](https://img.shields.io/badge/AI%2FML%20Pentester-1E1E1E?style=flat-square)
 ![HTB Pro Labs](https://img.shields.io/badge/HTB%20Pro%20Labs-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-```bash
-$ tail -n 20 advisories.log
-```
-```
-2026-04  elFinder    OS command injection via `resize` (RCE)
-                     GHSA-8q4h-8crm-5cvc  ·  CVE pending
-2026-04  efw         Zip Slip RCE · path traversal RCE · readonly bypass · stored XSS
-                     coordinated via JVN
-```
 
 ```bash
 $ contact --help
 ```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
 
 ---
 

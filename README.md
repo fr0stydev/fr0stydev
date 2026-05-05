@@ -18,21 +18,18 @@
 
 ```bash
 $ whoami
-```
-```
+
 Lin · Red Team Operator @ /jp
 Offensive security engineer · vulnerability researcher
-Spoken: ja / en / zh / ko
+Spoken: ja / en / zh /
 ```
 
 ```bash
 $ cat focus.areas
-```
-```
-[+] Red team operations    — adversary emulation, C2 dev, custom tooling
-[+] Vulnerability research — coordinated disclosure (GHSA / JVN / CVE)
-[+] Security code review   — web, mobile, cloud, infrastructure
-[+] Penetration testing    — external, internal, web, mobile, AD
+[+] Red team operations 
+[+] Vulnerability research
+[+] Security code review 
+[+] Penetration testing
 ```
 
 ```bash
